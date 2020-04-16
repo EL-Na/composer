@@ -1,5 +1,5 @@
 {
-    "name": "ComposerProject/src",
+    "name": "composer/src",
     "description": "The first composer project",
     "type": "project",
     "authors": [
