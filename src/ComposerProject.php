@@ -2,7 +2,7 @@
 
 namespace ComposerProject;
 
-class Index
+class ComposerProject
 {
     public function msg($msg = "Hello World")
     {
